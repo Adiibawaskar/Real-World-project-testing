@@ -1,4 +1,4 @@
-# Real-World Web Audit: Enterprise College ERP System
+# Enterprise College ERP System
 
 ## 📌 Executive Summary
 This directory houses the comprehensive quality assurance audit for an **Enterprise College ERP System**. The audit spans multiple access tiers (Super-Admin, Faculty, Student, and Library Operations) across mobile and desktop viewports, focusing on responsive structural layouts, data visualizers, and transactional communications.
